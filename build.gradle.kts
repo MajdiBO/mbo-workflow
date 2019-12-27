@@ -18,7 +18,7 @@ repositories {
 }
 
 dependencies {
-    implementation("io.mbo.labs:statemachine:$statemachineVersion")
+    implementation("io.mbo.labs:mbo-statemachine:$statemachineVersion")
 
     implementation(kotlin("stdlib-jdk8"))
     testImplementation("org.junit.jupiter:junit-jupiter:$jupiterVersion")

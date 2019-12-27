@@ -1,2 +1,2 @@
-rootProject.name = "workflow"
+rootProject.name = "mbo-workflow"
 
